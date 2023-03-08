@@ -1,12 +1,20 @@
 
-  body {
+body {
 background-image: url("../img/kanto-map.jpeg");
 background-repeat: no-repeat;
 background-size:cover;
 background-repeat:no-repeat;
 }
 
- {
-background-color: rgba(0, 0, 0, 0.178);
+h1 {
+    background-color: rgba(0, 0, 0, 0.459);
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+    padding: 25px;
+    border-radius: 3px;
+    display: inline-block;
+}
 
+.titulo{
+text-align: center;
 }
