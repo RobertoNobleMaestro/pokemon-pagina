@@ -1,12 +1,12 @@
 
-body {
+#index {
 background-image: url("../img/kanto-map.jpeg");
 background-repeat: no-repeat;
 background-size:cover;
 background-repeat:no-repeat;
 }
 
-h1 {
+#mmg {
     background-color: rgba(0, 0, 0, 0.459);
     font-family: 'Press Start 2P', cursive;
     color: white;
@@ -17,4 +17,83 @@ h1 {
 
 .titulo{
 text-align: center;
+}
+
+.enlaces {
+text-decoration: none;
+font-family: 'Press Start 2P', cursive;
+font-size: 24px;
+color: black;
+}
+
+.titulos {
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+}
+
+
+#machamp {
+background-color: rgb(165, 164, 164);
+font-family: 'Press Start 2P', cursive;
+}
+
+#lucha {
+background-color: brown;
+border-radius: 3px;
+display: inline-block;
+padding: 5px;
+}
+
+#rapidash {
+    background-color: rgb(255, 225, 185);
+    font-family: 'Press Start 2P', cursive;
+    }
+#Fuego {
+    background-color: rgb(255, 136, 0);
+    border-radius: 3px;
+    display: inline-block;
+    padding: 5px;
+}
+
+#Snorlax {
+    background-color: #a5dbe7;
+    font-family: 'Press Start 2P', cursive;
+    }
+    
+    #normal {
+    background-color: rgb(136, 136, 136);
+    border-radius: 3px;
+    display: inline-block;
+    padding: 5px;
+    }
+    #img {
+    width: 600px;
+    height: 500px;
+    }
+
+#inicio-a{
+    background-color: brown;
+    font-family: 'Press Start 2P', cursive;
+    color: black;
+    padding: 25px;
+    border-radius: 3px;
+    display: inline-block;
+}
+
+#inicio-b{
+    background-color: rgb(255, 136, 0);
+    font-family: 'Press Start 2P', cursive;
+    color: black;
+    padding: 25px;
+    border-radius: 3px;
+    display: inline-block;
+}
+
+#inicio-c{
+    background-color: rgb(136, 136, 136);
+    font-family: 'Press Start 2P', cursive;
+    color: rgb(0, 0, 0);
+    padding: 25px;
+    border-radius: 3px;
+    display: inline-block;
 }
