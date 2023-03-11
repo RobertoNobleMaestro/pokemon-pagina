@@ -78,6 +78,7 @@ padding: 5px;
     padding: 25px;
     border-radius: 3px;
     display: inline-block;
+    text-decoration: none;
 }
 
 #inicio-b{
@@ -87,6 +88,7 @@ padding: 5px;
     padding: 25px;
     border-radius: 3px;
     display: inline-block;
+    text-decoration: none;
 }
 
 #inicio-c{
@@ -96,4 +98,5 @@ padding: 5px;
     padding: 25px;
     border-radius: 3px;
     display: inline-block;
+    text-decoration: none;
 }
